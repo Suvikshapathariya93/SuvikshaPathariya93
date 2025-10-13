@@ -20,7 +20,7 @@ Let me introduce myself...
 ## 🛠 Tech Stack
 - **Languages**: SQL, Python
 - **Databases**: MySQL
-- **Visualization Tools**: Tableau, Looker, Power BI
+- **Visualization Tools**: Tableau, Power BI, Alteryx, Google Data Studio(Looker)
 - **Spreadsheet**: MS Excel, Jupyter Notebook, Google sheet
 
   
