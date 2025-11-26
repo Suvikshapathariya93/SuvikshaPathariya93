@@ -14,7 +14,7 @@ Let me introduce myself...
 - **SQL:** Expert in crafting complex queries, optimizing database performance, and manipulating data efficiently for actionable insights.
 - **Python:** Skilled in leveraging Python for data cleaning, transformation, exploratory analysis.
 - **Excel:** Proficient in creating dynamic reports, performing in-depth data analysis, and automating workflows with advanced Excel functionalities.
-- ""Alteryx:** Proficient in building automated workflows for data preparation, blending, and advanced analytics. Skilled in optimizing ETL processes, integrating multiple data sources, and creating scalable solutions to streamline reporting and decision-making.
+- **Alteryx:** Proficient in building automated workflows for data preparation, blending, and advanced analytics. Skilled in optimizing ETL processes, integrating multiple data sources, and creating scalable solutions to streamline reporting and decision-making.
 - **Tableau, Power BI, and Looker:** Specializes in designing intuitive, data-driven dashboards and interactive visualizations to support strategic decision-making and storytelling.
   
 
