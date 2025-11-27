@@ -33,3 +33,4 @@ Let me introduce myself...
 
 ## 🤝 Let’s network and collaborate!
 - [LinkedIn | Suviksha Pathariya](https://www.linkedin.com/in/suviksha-pathariya/)
+- [Instagram | Suviksha Pathariya](https://www.instagram.com/dataanalyst.play?igsh=eGRnZDQ2cTRta2Vz)
