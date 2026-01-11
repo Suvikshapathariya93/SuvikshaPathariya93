@@ -6,7 +6,7 @@ Let me introduce myself...
 [📧 Email Me](mailto:suvikshapathariya45@gmail.com) | [GitHub](https://github.com/Suvikshapathariya93)
 
 ## 🌟 About Me
-- Passionate Data Analyst with expertise in uncovering insights through data.
+- Passionate Data Engineer and Business Intelligence Developer with expertise in uncovering insights through data.
 - Avid learner, currently diving deeper into **SQL**, **Python**, **Power BI**, **Tableau**, **Alteryx**.
 - Believer in the power of data storytelling to drive impactful decisions.
 
