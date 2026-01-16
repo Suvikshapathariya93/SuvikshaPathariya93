@@ -2,7 +2,7 @@
 Let me introduce myself...
 
 **Suviksha Pathariya**  
-**DATA ANALYST** 
+**DATA ENGINEER & BI DEVELOPER** 
 [📧 Email Me](mailto:suvikshapathariya45@gmail.com) | [GitHub](https://github.com/Suvikshapathariya93)
 
 ## 🌟 About Me
