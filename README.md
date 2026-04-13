@@ -3,7 +3,7 @@ Let me introduce myself...
 
 **Suviksha Pathariya**  
 **DATA ENGINEER & BI DEVELOPER** 
-[📧 Email Me](mailto:suvikshapathariya45@gmail.com) | [GitHub](https://github.com/Suvikshapathariya93)
+[📧 Email Me](mailto:suvikshapathariya45@gmail.com)
 
 ## 🌟 About Me
 - Passionate Data Engineer and Business Intelligence Developer with expertise in uncovering insights through data.
