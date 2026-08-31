@@ -21,7 +21,7 @@ Let me introduce myself...
 
 ## 🛠 Tech Stack
 - **Languages:** SQL, Python
-- **Databases:** MySQL, AWS, ForeSight
+- **Databases:** MySQL, AWS, ForeSight, Metabase
 - **ETL Tool:** Alteryx
 - **Visualization Tools:** Tableau, Power BI, Google Data Studio(Looker)
 - **Spreadsheet:** MS Excel, Jupyter Notebook, Google sheet
