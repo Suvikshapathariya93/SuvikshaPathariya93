@@ -7,7 +7,7 @@ Let me introduce myself...
 
 ## 🌟 About Me
 - Passionate Data Engineer and Business Intelligence Developer with expertise in uncovering insights through data.
-- Avid learner, currently diving deeper into **Python**, **Alteryx**.
+- Avid learner, currently diving deeper into **Python**, **ETL**, **data pipelines**, **analytics** and **AI/RAG learning**.
 - Believer in the power of data storytelling to drive impactful decisions.
 
 ## Skills Playground
